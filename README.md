@@ -8,6 +8,7 @@ This is simply a skeleton repo for a WordPress site. Use it to jump-start your W
 * Custom content directory in `/content/` (cleaner, and also because it can't be in `/wp/`)
 * `wp-config.php` in the root (because it can't be in `/wp/`)
 * All writable directories are symlinked to similarly named locations under `/shared/`.
+* Be shure to change the Wordpress Adress to your host/wp but not the Site Adress
 
 ## Questions & Answers
 
